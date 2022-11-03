@@ -9,6 +9,7 @@
   outline: none;
   border: none;
   text-transform: capitalize;
+  scroll-behavior: smooth;
 }
 .box p{
   text-transform: none;
